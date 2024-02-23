@@ -6,3 +6,5 @@ c= a-b
 
 ## this is for branch newbranch 
 d = 8
+## new feauture 2
+featuremain2 = 5
